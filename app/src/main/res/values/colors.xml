@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="hint_text_color">#808080</color>
+    <color name="custom_progress_color">#6BF2E5</color>
+    <color name="primary_color">#00008b</color>
+    <color name="my_color">#93F4EB</color>
+    <color name="light_gray">#EEEEEE</color>
+    <color name="transparent_light_gray">#80d3d3d3</color>
+
+
+</resources>
